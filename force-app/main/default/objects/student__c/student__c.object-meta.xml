@@ -154,6 +154,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <label>student</label>
+	
     <nameField>
         <label>student Name</label>
         <type>Text</type>
@@ -163,3 +164,4 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
+ 
